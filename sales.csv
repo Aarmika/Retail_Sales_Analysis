@@ -1,0 +1,11 @@
+Order_ID,Product,Region,Quantity,Price
+101,Laptop,South,2,50000
+102,Mobile,North,1,20000
+103,Tablet,East,3,15000
+104,Laptop,West,1,50000
+105,Mobile,South,2,20000
+106,Keyboard,South,3,1500
+107,Mouse,East,2,800
+108,Monitor,North,1,12000
+109,Phone,West,2,25000
+110,Laptop,East,1,55000
